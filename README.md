@@ -22,6 +22,8 @@
 * The following image demonstrates the web application's appearance and functionality: (.\assets\images\Completed Horiseon.png)
 
 ## Link to completed application
+https://chou8395-xomywl.github.io/Challenge-1-Horiseon/
+
 
 
 
